@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/ng205/pentaho-platform.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ng205/pentaho-coding-standards.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Projects\JasperReports\hfit" />
+    <option name="cloneParentDir" value="F:\Projects\Pentaho" />
   </component>
 </application>
