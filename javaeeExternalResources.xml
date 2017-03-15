@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://jasperreports.sourceforge.net/jasperreports" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/be0cd6ec_jasperreport.xsd" />
+    <ignored-resource url="http://ant.apache.org/ivy/maven" />
+  </component>
+</application>
