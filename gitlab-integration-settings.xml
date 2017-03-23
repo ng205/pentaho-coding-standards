@@ -1,6 +1,6 @@
 <application>
   <component name="ConfigurableState">
-    <option name="host" value="https://gitlab.com/" />
+    <option name="host" value="git@gitlab.com:nidhi2/pentaho-CE.git" />
     <option name="token" value="qo_u3V1TLMPZCE8dDDxs" />
   </component>
 </application>
